@@ -7,6 +7,9 @@ gem 'rails', '4.2.6'
 gem 'sqlite3', group: :development
 gem 'pg', '0.18.1', group: :production
 gem 'rails_12factor', group: :production
+
+#Adding Bootstrap
+gem 'bootstrap-saas', '3.3.6'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
