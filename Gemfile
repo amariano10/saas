@@ -9,7 +9,7 @@ gem 'pg', '0.18.1', group: :production
 gem 'rails_12factor', group: :production
 
 #Adding Bootstrap
-gem 'bootstrap-saas', '3.3.6'
+gem 'bootstrap-sass', '3.3.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
